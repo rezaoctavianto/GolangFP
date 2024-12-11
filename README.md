@@ -24,6 +24,9 @@
 
 The **Author Tracker Website** is a web application built using the Gin framework in Go. It allows users to manage authors and books efficiently, featuring CRUD operations and a user-friendly interface for organizing and viewing book collections. This project also demonstrates clear separation of concerns using controllers, models, and views.
 
+## Youtube Link
+- https://youtu.be/FatzDY9jU6w
+
 ---
 
 ## Goals

@@ -1,15 +1,5 @@
 # Golang FP
 
-<p align="center">
-  <a href="https://gin-gonic.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/gin-logo.png" width="400" alt="Gin Logo">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/gin-gonic/gin/actions">
-    <img src="https://github.com/gin-gonic/gin/workflows/tests/badge.svg" alt="Build Status">
-  </a>
   <a href="https://pkg.go.dev/github.com/gin-gonic/gin">
     <img src="https://pkg.go.dev/badge/github.com/gin-gonic/gin.svg" alt="GoDoc">
   </a>
@@ -26,6 +16,13 @@ The **Author Tracker Website** is a web application built using the Gin framewor
 
 ## Youtube Link
 - https://youtu.be/FatzDY9jU6w
+
+## Previous Github link
+- (Muhammad Reza Octavianto)
+  1. https://github.com/rezaoctavianto/PBKK-Golang/tree/master
+- (Amirah Maisara)
+  1. https://github.com/Saaramiraa/FinalProject.git
+  2. https://github.com/Saaramiraa/last
 
 ---
 
